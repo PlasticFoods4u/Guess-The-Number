@@ -103,17 +103,10 @@ You got it, it was 37. It took you 3 tries to get it right.
 
 Some features I may add later:
 
-- High score system
 - Limited guesses mode
 - Difficulty selection menu using numbers
-- Statistics tracking
-- Multiplayer mode
 - Better code reuse by reducing repeated code
 
 ---
-
-## Author
-
-Made by [Your Name]
 
 This project was created as part of my journey learning C++.
