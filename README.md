@@ -2,6 +2,10 @@
 
 A simple console-based number guessing game written in C++.
 
+## Play Instantly In Your Browser
+**[Click here to play the game!](https://onlinegdb.com/-wM8Zlt-35)**
+its a OnlineGDB (Online Compiler) link.
+
 ## About
 
 This is one of my beginner C++ projects made to practice:
