@@ -231,7 +231,7 @@ int main ()
                 break;
     }
 
-    cout << "\n\nplay again?  press any key to contniue or n\n";
+    cout << "\n\nplay again?  press any key to contniue or n to exist.\n";
      cin >> play_again ;
     
   }
